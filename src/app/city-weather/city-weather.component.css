@@ -1,0 +1,40 @@
+.container {
+
+    background-color: rgb(97 216 239);
+    padding: 10px;
+}
+.row.weather-bg {
+    background-color: #ffff;;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.display-weather{
+    display: inline-flex;
+    border-top: 1px solid #f8f3f3;
+}
+.card-value {
+    padding: 0 10px 0px 10px;
+    border-right: 1px solid #f8f3f3;
+    text-align: center;
+}
+
+.card-inline {
+    display: flex;
+    border-top: 1px solid #f8f3f3;
+    padding: 20px 0px 20px 0px;
+}
+.card-body.card-inline p {
+    margin: 0px;
+    padding: 0px 20px 0px 20px;
+    text-align: center;
+}
+.gray-font{
+    color:rgb(131, 128, 128)
+}
+img.img-weather {
+    margin-top: -10px;
+    padding-right: 40px;
+}
+.card-forecast {
+    width: 195px;
+}

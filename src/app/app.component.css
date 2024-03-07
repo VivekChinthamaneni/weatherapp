@@ -1,0 +1,34 @@
+.blue-bg {
+    background-color: #4090e7; /* Example: Bootstrap primary color */
+    color: white;
+  }
+  .blue-bg h1 {
+    font-size: 24px;
+    font-weight: 500;
+    padding: 15PX;
+}
+  
+  input[type="text"] {
+    max-width: 400px; /* Set a max-width for the search box */
+  }
+  
+  .bi-search {
+    font-size: 1.2rem; /* Adjust icon size if necessary */
+  }
+  li.nav-item {
+    display: inline;
+   
+}
+.nav-link{
+    color: #555151;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px 10px 10px;
+}
+ul.nav.nav-tabs {
+    padding: 0px;
+}
+a.nav-link.active {
+    color: #000;
+    border-bottom: 2px solid #f96c0c;
+}
